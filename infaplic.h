@@ -21,3 +21,9 @@ float get_float(void){
     scanf("%f",&tmp);
     return tmp;
 }
+
+char get_char(void){
+    char tmp;
+    scanf(" %c",&tmp);
+    return tmp;
+}

@@ -10,7 +10,7 @@ Baseado no projeto [cs50/libcs50](https://github.com/cs50/libcs50).
 * O arquivo `main.c` contém o exemplo de uso. 
 
 ### Funcionalidades:
- * Diminui (ou esperamos diminuir) a complexidade de aquisição de dados usando as funções:  `get_int()`, `get_float()` e `get_string()`,
+ * Diminui (ou esperamos diminuir) a complexidade de aquisição de dados usando as funções:  `get_int()`, `get_float()`, `get_char()` e `get_string()`,
  * Definição do tipo `string` para textos.
 
 ### Dúvidas
