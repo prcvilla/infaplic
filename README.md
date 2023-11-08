@@ -8,7 +8,7 @@ Baseado no projeto [cs50/libcs50](https://github.com/cs50/libcs50).
 * Coloque o arquivo [`infaplic.h`](infaplic.h) no seu projeto (`#include "infaplic.h"`).
 * Feito.
 * O arquivo [`main.c`](main.c) contém o exemplo de uso. 
-* Alternativamente, utilize o projeto exemplo no CodeBlocks: [`InfAplicBase`](CodeBlocksProject/InfAplicBase) - [zip](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/prcvilla/infaplic/tree/main/CodeBlocksProject/InfAplicBase)
+* Alternativamente, utilize o projeto exemplo no CodeBlocks: [`InfAplicBase`](CodeBlocksProject/InfAplicBase) - [`zip`](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/prcvilla/infaplic/tree/main/CodeBlocksProject/InfAplicBase)
 
 ### Funcionalidades:
  * Diminui (ou esperamos diminuir) a complexidade de aquisição de dados usando as funções:  `get_int()`, `get_float()`, `get_char()` e `get_string()`,
